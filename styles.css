@@ -1,0 +1,19 @@
+body {
+    background: lightBlue;
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    font-weight: bold;
+    text-align-last: center
+  }
+  h2 {
+    text-align-last: center
+  }
+  table, th, td {
+    border: 1px solid
+  }
+    
+  
+  
